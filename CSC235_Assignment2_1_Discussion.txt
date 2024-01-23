@@ -1,0 +1,17 @@
+Who was the inventor of Python Programming Language?
+    Guido van Rossum
+
+What is something that you find interesting about teh inventor of the Python Programming Language's Professional Life?
+    He is a zodiac sign Cancer, and received his Computer Science Degree in Amsterdam.
+
+What is the inventor of the Python Programming Language doing today?
+    As of November 2020, out of retirement and working in the Developer Division at Microsoft, Living in Belmont, California
+
+When was the Python Programming Language Invented?
+    1989
+
+When was the first version of Python Released?
+    1991 was first release, as Python 0.9.0
+
+After your research on the questions above, what do you find surprising and interesting about the genesis of the Python Programming Language.
+    As a refresher, and greatful reminder of how commonly its usage is in bridging code for use in and creation of Graphical User Interfaces.
